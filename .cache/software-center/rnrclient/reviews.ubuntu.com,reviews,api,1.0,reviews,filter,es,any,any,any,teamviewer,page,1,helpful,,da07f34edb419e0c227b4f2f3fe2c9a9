@@ -1,0 +1,11 @@
+status: 200
+content-length: 3
+content-location: https://reviews.ubuntu.com/reviews/api/1.0/reviews/filter/es/any/any/any/teamviewer/page/1/helpful/
+accept-ranges: bytes
+server: Apache/2.2.22 (Ubuntu)
+last-modified: Fri, 01 Mar 2019 21:52:47 GMT
+etag: "2402e8-3-5830f6d6a89c0"
+date: Tue, 10 Sep 2019 18:14:09 GMT
+content-type: application/json;charset=utf-8
+
+[]

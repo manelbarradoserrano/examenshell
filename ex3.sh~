@@ -1,0 +1,7 @@
+read -p "Introduce un número: " num
+
+
+if [ $i -lt $num ]; then
+secuencia=`seq $i $num`
+echo "$secuencia"
+fi

@@ -1,0 +1,402 @@
+gnome-session[1805]: WARNING: Session 'ubuntu' runnable check failed: Salió con el código 5
+
+(gnome-settings-daemon:1910): power-plugin-WARNING **: gnome-session is not available
+unity-2d-shell: [DEBUG] bool KeyMonitor::registerEvents(): Could not open device:  Virtual core pointer 
+unity-2d-shell: [DEBUG] bool KeyMonitor::registerEvents(): Could not open device:  Virtual core keyboard 
+unity-2d-panel: [DEBUG] Scanning panel plugin directory "/usr/lib/unity-2d/plugins/panel" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-appindicator.so" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-appname.so" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-indicator.so" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-legacytray.so" 
+unity-2d-panel: [DEBUG] Loading panel plugin: "/usr/lib/unity-2d/plugins/panel/libpanelplugin-separator.so" 
+unity-2d-panel: [DEBUG] Configured plugins list is: ("appname", "!legacytray", "indicator") 
+unity-2d-panel: [DEBUG] bool KeyMonitor::registerEvents(): Could not open device:  Virtual core pointer 
+unity-2d-panel: [DEBUG] bool KeyMonitor::registerEvents(): Could not open device:  Virtual core keyboard 
+unity-2d-panel: [WARNING] X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 18 (X_ChangeProperty)
+  Resource id:  0x0
+unity-2d-panel: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Alt+F10" 
+unity-2d-shell: [DEBUG] static void WindowImageProvider::activateComposite(): Server supports the Composite extension (ver 0.4)
+XInput version 2.2 found
+unity-2d-panel: [WARNING] X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 20 (X_GetProperty)
+  Resource id:  0x2c00004
+unity-2d-panel: [WARNING] X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 20 (X_GetProperty)
+  Resource id:  0x2c00007
+** Message: applet now removed from the notification area
+unity-2d-shell: [WARNING] libindicator: Desktop file '/usr/share/applications/libreoffice-writer.desktop' is using a deprecated format for its actions that will be dropped soon.
+unity-2d-shell: [WARNING] libindicator: Desktop file '/usr/share/applications/libreoffice-calc.desktop' is using a deprecated format for its actions that will be dropped soon.
+unity-2d-shell: [WARNING] libindicator: Desktop file '/usr/share/applications/libreoffice-impress.desktop' is using a deprecated format for its actions that will be dropped soon.
+
+(gnome-settings-daemon:1910): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
+** Message: using fallback from indicator to GtkStatusIcon
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+S" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+T" 
+
+(gnome-settings-daemon:1910): color-plugin-WARNING **: unable to get EDID for xrandr-default: unable to get EDID for output
+
+(gnome-settings-daemon:1910): color-plugin-WARNING **: failed to reset xrandr-default gamma tables: gamma size is zero
+** Message: moving back from GtkStatusIcon to indicator
+unity-2d-shell: [WARNING] Object::connect: No such signal Lenses::roleNamesChanged(QHash<int,QByteArray>) in /build/buildd/unity-2d-5.14.0/libunity-2d-private/src/qsortfilterproxymodelqml.cpp:65
+unity-2d-shell: [WARNING] void QSortFilterProxyModelQML::setSourceModelQObject(QObject*): received a sourceModel that does not notify of changes of its roleNames 
+unity-2d-shell: [WARNING] file:///usr/share/unity-2d/shell/hud/Hud.qml:145: TypeError: Result of expression 'shellManager.hudShell' [null] is not an object.
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Alt+F1" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Alt+F2" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+0" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+0" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+1" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+1" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+2" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+2" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+3" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+3" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+4" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+4" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+5" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+5" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+6" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+6" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+7" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+7" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+8" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+8" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+9" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+Shift+9" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+ퟀ" 
+unity-2d-shell: [WARNING] void ApplicationsList::remoteEntryUpdated(const QString&, const QString&, const QString&, const QMap<QString, QVariant>&): Application sent an update but we don't seem to have it in the launcher: "application://nautilus.desktop" 
+unity-2d-shell: [WARNING] void ApplicationsList::remoteEntryUpdated(const QString&, const QString&, const QString&, const QMap<QString, QVariant>&): Application sent an update but we don't seem to have it in the launcher: "application://nautilus.desktop" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+A" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+F" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+M" 
+unity-2d-shell: [DEBUG] virtual void Hotkey::connectNotify(const char*): Grabbing hotkey "Meta+V" 
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+unity-2d-shell: [WARNING] void ApplicationsList::remoteEntryUpdated(const QString&, const QString&, const QString&, const QMap<QString, QVariant>&): Application sent an update but we don't seem to have it in the launcher: "application://empathy.desktop" 
+unity-2d-shell: [WARNING] void ApplicationsList::remoteEntryUpdated(const QString&, const QString&, const QString&, const QMap<QString, QVariant>&): Application sent an update but we don't seem to have it in the launcher: "application://empathy.desktop" 
+
+** (zeitgeist-datahub:2329): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+
+(gnome-terminal:2374): Vte-2.90-WARNING **: No se pueden convertir caracteres de UTF-8 a actual.
+Unhandled value type TerminalEncoding of pspec encoding
+WARNING:root:nothing unsupported running 0 (0)
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+unity-2d-shell: [WARNING] X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 3 (X_GetWindowAttributes)
+  Resource id:  0x4400005
+unity-2d-shell: [WARNING] X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 42 (X_SetInputFocus)
+  Resource id:  0x4400005
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+unity-2d-shell: [WARNING] void ShellManager::forceDeactivateShell(ShellDeclarativeView*): No previously focused window found, use mouse to select window. 
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Nautilus-Share-Message: Called "net usershare info" but it failed: La «red compartida» devolvió el error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No existe el archivo o el directorio
+Please ask your system administrator to enable user sharing.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2a003c8 (Carpeta pe)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4400024 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1808218350") 
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2a003c8 (Carpeta pe)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.window» en el objeto en la ruta /org/ayatana/bamf/window75497475") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1385522938") 
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+(gnome-terminal:3702): Vte-2.90-WARNING **: No se pueden convertir caracteres de UTF-8 a actual.
+Unhandled value type TerminalEncoding of pspec encoding
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2a003c8 (Ejercicio6)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application829906520") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application829906520") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application829906520") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application829906520") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application829906520") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application829906520") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application829906520") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application829906520") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application829906520") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application829906520") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application829906520") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application829906520") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application829906520") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application829906520") 
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4800082 (ej1.sh (~/)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4a00005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1932146384") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1932146384") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1932146384") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1932146384") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1932146384") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1932146384") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1932146384") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1920723128") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1920723128") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1920723128") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1920723128") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1920723128") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application1920723128") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1920723128") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application1920723128") 
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4800082 (ej1.sh (~/)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4a00005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2a01abf (Ejercicio6)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4a00005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4a00005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4800082 (ej3.sh (~/)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4a00005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4a00005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4a00005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4a00005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4a00005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4a00005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2a01abf (Vicente)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Nautilus-Share-Message: Called "net usershare info" but it failed: La «red compartida» devolvió el error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No existe el archivo o el directorio
+Please ask your system administrator to enable user sharing.
+
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4a00005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4800082 (ej6.sh (~/)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2a01abf (Ejercicio6)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4800082 (ej6.sh (~/)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+(gnome-terminal:5224): Vte-2.90-WARNING **: No se pueden convertir caracteres de UTF-8 a actual.
+Unhandled value type TerminalEncoding of pspec encoding
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4800082 (ej6.sh (~/)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4400005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4400005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4400005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4800082 (ej6.sh (~/)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4800082 (*ej7.sh (~)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00002 (unity-2d-s)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+(gnome-terminal:5354): Vte-2.90-WARNING **: No se pueden convertir caracteres de UTF-8 a actual.
+Unhandled value type TerminalEncoding of pspec encoding
+Advertencia del gestor de ventanas: Received a NET_CURRENT_DESKTOP message from a broken (outdated) client who sent a 0 timestamp
+unity-2d-shell: [WARNING] Wnck: Received a timestamp of 0; window activation may not function properly.
+
+Advertencia del gestor de ventanas: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x4400005 (alumno@pc-)
+Advertencia del gestor de ventanas: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.application» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 
+unity-2d-shell: [WARNING] QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No existe la interfaz «org.ayatana.bamf.view» en el objeto en la ruta /org/ayatana/bamf/application311805604") 

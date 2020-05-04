@@ -1,0 +1,124 @@
+2019-09-10 19:09:51,160 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2019-09-10 19:09:51,290 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2019-09-10 19:09:51,361 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 183, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3666, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No existe el archivo o el directorio)
+2019-09-10 19:09:53,659 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2019-09-10 19:09:55,107 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is None.
+2019-09-10 19:09:55,439 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2019-09-10 19:09:56,390 - softwarecenter.ui.gtk3.app - INFO - found a running software-center on dbus, reconnecting
+2019-09-10 19:10:05,412 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterAgentAPI', 'available_apps', '{"lang": "es", "series": "precise", "arch": "i386"}']'
+2019-09-10 19:10:05,431 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+'
+2019-09-10 19:10:05,432 - softwarecenter.db.update - WARNING - error: WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+
+2019-09-10 19:10:05,805 - softwarecenter.ui.gtk3.app - INFO - software-center-agent finished with status 1
+2019-09-10 19:10:06,579 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2019-09-10 19:10:07,879 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2019-09-10 19:10:08,181 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2019-09-10 19:10:08,301 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2019-09-10 19:10:08,415 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2019-09-10 19:10:11,319 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2019-09-10 19:10:11,448 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2019-09-10 19:10:11,870 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterAgentAPI', 'exhibits', '{"lang": "es", "series": "precise"}']'
+2019-09-10 19:10:11,888 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+'
+2019-09-10 19:14:34,991 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 183, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3666, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No existe el archivo o el directorio)
+2019-09-10 19:17:00,608 - softwarecenter.backend - WARNING - _on_trans_error: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2019-09-10 19:18:05,315 - softwarecenter.backend - WARNING - _on_trans_error: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2019-09-10 19:20:05,238 - softwarecenter.db.database - INFO - afile '<__main__.GLocalFile object at 0xa2f1acc (GLocalFile at 0xa54ae40)>' changed
+2019-09-10 19:20:05,786 - softwarecenter.db.database - INFO - reopen() database
+2019-09-10 19:20:05,807 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2019-09-10 19:20:12,812 - softwarecenter.db.database - INFO - reopen() database
+2019-09-10 19:20:12,818 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2019-09-10 19:21:33,961 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2019-09-10 19:21:39,674 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2019-09-10 19:26:04,111 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2019-09-10 19:26:13,044 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2019-09-10 19:27:27,923 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/lib/python2.7/dist-packages/dbus/proxies.py', 410, '_introspect_error_handler')'
+2019-09-10 19:27:27,922 - dbus.proxies - ERROR - Introspect error on :1.81:/org/debian/apt/transaction/3f5f9e1c526c40e5bea53db75d59df9d: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2019-09-10 19:57:11,439 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2019-09-10 19:57:11,460 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2019-09-10 19:57:13,064 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2019-09-10 19:57:15,396 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is [Application: appname= pkgname=teamviewer].
+2019-09-10 19:57:16,012 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2019-09-10 19:57:29,297 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterAgentAPI', 'available_apps', '{"lang": "es", "series": "precise", "arch": "i386"}']'
+2019-09-10 19:57:29,312 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+'
+2019-09-10 19:57:29,314 - softwarecenter.db.update - WARNING - error: WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+
+2019-09-10 19:57:35,299 - softwarecenter.ui.gtk3.app - INFO - software-center-agent finished with status 1
+2019-09-10 19:57:35,346 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterAgentAPI', 'exhibits', '{"lang": "es", "series": "precise"}']'
+2019-09-10 19:57:35,349 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+'
+2019-09-10 19:59:46,390 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2019-09-10 19:59:46,418 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2019-09-10 19:59:47,067 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2019-09-10 19:59:48,467 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is [Application: appname= pkgname=teamviewer].
+2019-09-10 19:59:48,680 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2019-09-10 20:00:00,805 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterAgentAPI', 'available_apps', '{"lang": "es", "series": "precise", "arch": "i386"}']'
+2019-09-10 20:00:00,819 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+'
+2019-09-10 20:00:00,821 - softwarecenter.db.update - WARNING - error: WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+
+2019-09-10 20:00:05,071 - softwarecenter.ui.gtk3.app - INFO - software-center-agent finished with status 1
+2019-09-10 20:00:05,117 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterAgentAPI', 'exhibits', '{"lang": "es", "series": "precise"}']'
+2019-09-10 20:00:05,127 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+'
+2019-09-10 20:00:16,985 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterRecommenderAPI', 'recommend_app', '{"pkgname": "teamviewer"}']'
+2019-09-10 20:00:16,995 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at rec.ubuntu.com
+'
+2019-09-10 20:00:16,996 - softwarecenter.db.categories - WARNING - Error while accessing the recommender service: WARNING:__main__:Unable to find the server at rec.ubuntu.com
+
+2019-09-10 20:00:17,005 - softwarecenter.ui.gtk3.widgets.recommendations - WARNING - Error while accessing the recommender agent for the details view recommendations: WARNING:__main__:Unable to find the server at rec.ubuntu.com
+
+2019-09-10 20:01:38,794 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is [Application: appname= pkgname=teamviewer].
+2019-09-10 20:01:43,536 - softwarecenter.ui.gtk3.app - INFO - found a running software-center on dbus, reconnecting
+2019-09-10 20:13:12,377 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2019-09-10 20:13:12,455 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2019-09-10 20:13:14,045 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2019-09-10 20:13:17,337 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is [Application: appname= pkgname=teamviewer].
+2019-09-10 20:13:18,111 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2019-09-10 20:13:51,183 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterAgentAPI', 'available_apps', '{"lang": "es", "series": "precise", "arch": "i386"}']'
+2019-09-10 20:13:51,221 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+'
+2019-09-10 20:13:51,238 - softwarecenter.db.update - WARNING - error: WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+
+2019-09-10 20:14:05,633 - softwarecenter.ui.gtk3.app - INFO - software-center-agent finished with status 1
+2019-09-10 20:14:06,502 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterRecommenderAPI', 'recommend_app', '{"pkgname": "teamviewer"}']'
+2019-09-10 20:14:06,511 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at rec.ubuntu.com
+'
+2019-09-10 20:14:06,512 - softwarecenter.db.categories - WARNING - Error while accessing the recommender service: WARNING:__main__:Unable to find the server at rec.ubuntu.com
+
+2019-09-10 20:14:06,512 - softwarecenter.ui.gtk3.widgets.recommendations - WARNING - Error while accessing the recommender agent for the details view recommendations: WARNING:__main__:Unable to find the server at rec.ubuntu.com
+
+2019-09-10 20:17:13,680 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2019-09-10 20:23:04,455 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2019-09-10 20:23:26,224 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterAgentAPI', 'exhibits', '{"lang": "es", "series": "precise"}']'
+2019-09-10 20:23:26,228 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+'
+2019-09-10 20:27:29,973 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2019-09-10 20:27:30,007 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2019-09-10 20:27:31,017 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2019-09-10 20:27:33,308 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is None.
+2019-09-10 20:27:33,634 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2019-09-10 20:27:46,206 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterAgentAPI', 'available_apps', '{"lang": "es", "series": "precise", "arch": "i386"}']'
+2019-09-10 20:27:46,222 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+'
+2019-09-10 20:27:46,228 - softwarecenter.db.update - WARNING - error: WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+
+2019-09-10 20:27:50,307 - softwarecenter.ui.gtk3.app - INFO - software-center-agent finished with status 1
+2019-09-10 20:27:50,351 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterAgentAPI', 'exhibits', '{"lang": "es", "series": "precise"}']'
+2019-09-10 20:27:50,354 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+'
+2019-09-10 20:29:42,674 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
